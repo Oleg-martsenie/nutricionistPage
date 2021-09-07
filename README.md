@@ -1,6 +1,6 @@
 <h1>Nutricionista</h1>
 
-<p>É uma pagina relaizada com html5 e css3 e com a maior parte feita usando flebox e apenas uma seção com css grid</p>
+<p>É uma pagina realizada com HTML5 e CSS3 e com a maior parte feita usando <kbd>flexbox</kbd> e apenas uma seção com css grid</p>
 
 <h2>Esse é o resultado</h2>
 
